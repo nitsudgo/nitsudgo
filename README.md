@@ -31,3 +31,11 @@ My interests include web development, generative art (not necessarily through AI
 ![Static Badge](https://img.shields.io/badge/next-badge?style=for-the-badge&logo=nextdotjs&color=000)
 ![Static Badge](https://img.shields.io/badge/tailwind-badge?style=for-the-badge&logo=tailwindcss&color=000)
 
+## Other Tech
+
+![Static Badge](https://img.shields.io/badge/airflow-badge?style=for-the-badge&logo=apacheairflow&color=000)
+![Static Badge](https://img.shields.io/badge/google_analytics-badge?style=for-the-badge&logo=googleanalytics&color=000)
+![Static Badge](https://img.shields.io/badge/google_tag_manager-badge?style=for-the-badge&logo=googletagmanager&color=000)
+![Static Badge](https://img.shields.io/badge/azure-badge?style=for-the-badge&logo=microsoftazure&color=000)
+
+
